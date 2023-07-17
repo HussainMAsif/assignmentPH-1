@@ -1,0 +1,72 @@
+.class{
+    background-color: rgb(253, 225, 229);
+}
+
+
+.class1{
+   
+   
+    display: flex;
+    margin-left: 240px;
+    margin-right: 240px;
+    justify-content: space-between;
+    
+
+}
+.class2{
+    display: block;
+    
+}
+.class3{
+    color: #272727;
+    font-family: 'Open Sans', sans-serif;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+height: 288px;
+width: 708px;
+margin-top: 297px;
+}
+.class4{
+    width: 517px;
+    height: 243px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: 'Open Sans', sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-top: 60px;
+margin-bottom: 30px;
+
+}
+.class5{
+    height: 85px;
+    width: 230px;
+    border-radius: 8px;
+background: #E55473;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+color: #FFF;
+font-family: 'Open Sans', sans-serif;
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 347px;
+  
+}
+.class6{
+    position: relative;
+}
+.class7{
+    height: 1100px;
+    width: 800px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+ 
+}
