@@ -1,8 +1,6 @@
 .class{
     background-color: rgb(253, 225, 229);
 }
-
-
 .class1{
    
    
@@ -69,4 +67,55 @@ margin-bottom: 347px;
     bottom: 0;
     right: 0;
  
+}
+.class8{
+    display: block;
+    margin-left: 240px;
+    margin-right: 240px;
+    justify-content: space-between;
+}
+.class9{
+    display: flex;
+    justify-content: space-between;
+}
+.bk{
+    width: 464px;
+height: 538px;
+flex-shrink: 0;
+display: flex;
+  justify-content: center;
+  align-items: center;
+border-radius: 300px 300px 0px 0px;
+}
+
+.class13{
+    color: #272727;
+text-align: center;
+font-family: 'Open Sans', sans-serif;;
+font-size: 35px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.class14{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 26px;
+font-style: normal;
+font-weight: 300;
+line-height: 60px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.class10{
+    width: 310px;
+height: 428px;
+flex-shrink: 0;
 }
