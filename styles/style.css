@@ -92,7 +92,7 @@ border-radius: 300px 300px 0px 0px;
 .class13{
     color: #272727;
 text-align: center;
-font-family: 'Open Sans', sans-serif;;
+font-family: 'Open Sans', sans-serif;
 font-size: 35px;
 font-style: normal;
 font-weight: 600;
@@ -106,7 +106,7 @@ display: flex;
 .class14{
     color: rgba(39, 39, 39, 0.60);
 text-align: center;
-font-family: Lato;
+font-family:'Open Sans', sans-serif;
 font-size: 26px;
 font-style: normal;
 font-weight: 300;
@@ -156,4 +156,45 @@ font-style: normal;
 font-weight: 700;
 line-height: 35px;
 text-decoration-line: underline;
+}
+.class16{
+    display: block;
+    margin-left: 300px;
+    margin-right: 300px;
+    justify-content: space-between;
+    margin-bottom: 140px;
+    margin-bottom: 140px;
+    border-radius: 8px;
+    border-color: black;
+
+background: rgba(39, 39, 39, 0.05);
+
+}
+
+.class15{
+    display: flex;
+    margin-left: 500px;
+    margin-right: 500px;
+    justify-content: space-between;
+    margin-top: 140px;
+    margin-bottom: 140px;
+    padding-top: 90px;
+    padding-bottom:160px ;
+ 
+}
+.c1{
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-family: 'Open Sans', sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 35px;
+
+
+}
+.c2{
+    position: relative;
+    text-align: center;
+    
 }
